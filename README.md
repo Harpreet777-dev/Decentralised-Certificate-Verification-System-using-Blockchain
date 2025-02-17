@@ -1,4 +1,4 @@
-# Decentralised-Certificate-Verification-System
+# Decentralised Certificate Verification System
 🎓 Decentralized Certificate Verification System
 A blockchain-based system for issuing and verifying educational certificates securely using Ethereum & Solidity. This project leverages MetaMask, React, and Ethers.js to ensure authenticity and prevent fraud.
 
