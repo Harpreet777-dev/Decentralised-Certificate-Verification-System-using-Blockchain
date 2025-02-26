@@ -10,7 +10,7 @@ function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const [loginData, setLoginData] = useState({ id: "", password: "" });
 
-  const contractAddress = "0x5FbDB2315678afecb367f032d93F642f64180aa3"; 
+  const contractAddress = "your_smartcontract_address_here"; 
   const ABI = [
     "function issueCertificate(address recipient, string name, string course, uint year) public",
     "function getCertificate(address student) public view returns (string memory, string memory, uint, bool)"
